@@ -1,5 +1,5 @@
 # mac0215
-Cada tema escrito aqui envolve a demonstração de proposições e teoremas e construção de exemplos.
+Cada tema escrito aqui envolve a demonstração de proposições e teoremas e construção de exemplos baseado no conteúdo do livro Category Theory, de Steve Awodey.
 
 ## Março
 ### Semana 1:
