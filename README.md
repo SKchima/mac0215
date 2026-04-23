@@ -45,17 +45,41 @@ Cada tema escrito aqui envolve a demonstração de proposições e teoremas e co
 - Grupos como categorias.
 
 ### Semana 3:
+#### Tempo gasto: 6h
+#### Página que parei: 143
+- Pulei para o capítulo de exponenciais para me adequar ao cronograma;
+- Demonstração do que seria um exponencial na categoria dos grafos.
 
 ### Semana 4:
+#### Tempo gasto: 7h
+- Problemas vistos como mapas entre grafos;
+- Anéis internos;
+- Confecção de exemplos (Vertex Cover, Dominating Set e Maximum Matching);
+- Pullback de um problema computacional visto como o espaço de soluções.
+
+## Maio
+### Semana 1:
+#### Tempo gasto:
+
+### Semana 2:
+#### Tempo gasto:
+
+### Semana 3:
+#### Tempo gasto:
+
+### Semana 4:
+#### Tempo gasto:
+
 
 ## Junho
 ### Semana 1:
-### Semana 2:
-### Semana 3:
-### Semana 4:
+#### Tempo gasto:
 
-## Julho
-### Semana 1:
 ### Semana 2:
+#### Tempo gasto:
+
 ### Semana 3:
+#### Tempo gasto:
+
 ### Semana 4:
+#### Tempo gasto:
