@@ -1,0 +1,5 @@
+[deps]
+Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+GATlab = "f0ffcf3b-d13a-433e-917c-cc44ccf5ead2"
+GraphViz = "f526b714-d49f-11e8-06ff-31ed36ee7ee0"
