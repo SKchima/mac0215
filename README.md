@@ -59,16 +59,27 @@ Cada tema escrito aqui envolve a demonstração de proposições e teoremas e co
 
 ## Maio
 ### Semana 1:
-#### Tempo gasto:
+#### Tempo gasto: 8h
+- Familiarização com a parte funcional de Julia;
+- Familiarização com a biblioteca AlgebraicJulia e construção de grafos;
+- Implementação de objetos exponenciais de grafos.
+
 
 ### Semana 2:
-#### Tempo gasto:
+#### Tempo gasto: 5h
+- Início da implementação dos structs dos anéis e estudo da documentação da biblioteca;
+- Implementação de morfismos entre anéis;
 
 ### Semana 3:
-#### Tempo gasto:
+#### Tempo gasto: 0h
+
+
 
 ### Semana 4:
-#### Tempo gasto:
+#### Tempo gasto: 7h
+- Mudança de paradigma do projeto;
+- Estudo sobre classificadores de subobjetos pelo livro do Goldblatt;
+- Adaptação da definição de problemas computacionais para o caso dos subobjetos como codomínio.
 
 
 ## Junho
