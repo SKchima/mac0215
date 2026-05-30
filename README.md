@@ -68,17 +68,19 @@ Cada tema escrito aqui envolve a demonstração de proposições e teoremas e co
 ### Semana 2:
 #### Tempo gasto: 5h
 - Início da implementação dos structs dos anéis e estudo da documentação da biblioteca;
-- Implementação de morfismos entre anéis;
+- Anéis internos e simplesmente anéis booleanos;
 
 ### Semana 3:
-#### Tempo gasto: 0h
-
+#### Tempo gasto: 12h
+- Implementação de morfismos entre anéis internos booleanos;
+- Implementação dos funtores que transformam objetos e morfismos da categoria de grafos para a categoria dos anéis;
+- Início da implementação de DominatingSet.
 
 
 ### Semana 4:
 #### Tempo gasto: 7h
 - Mudança de paradigma do projeto;
-- Estudo sobre classificadores de subobjetos pelo livro do Goldblatt;
+- Estudo do capítulo de subobjetos do livro do Goldblatt;
 - Adaptação da definição de problemas computacionais para o caso dos subobjetos como codomínio.
 
 
